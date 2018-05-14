@@ -1,0 +1,6 @@
+#define COLOR_BLACK 0x0000
+#define COLOR_BLUE 0x0349
+#define COLOR_DARK_BLUE 0x0113
+#define COLOR_GREY 0x0aaa
+#define COLOR_LIGHT_BLUE 0x056c
+#define COLOR_WHITE 0x0fff
